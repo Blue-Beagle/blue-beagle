@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Introduction"
 date: "2015-11-22"
 ---
